@@ -1,0 +1,23 @@
+$primary: #2bc3e9;
+// $danger: #dd0000;
+// $success: lime;
+// $warning: orange;
+// $info: aqua;
+
+$body-bg: #f3f3f0;
+
+@import "./bootstrap/scss/bootstrap.scss";
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

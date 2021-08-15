@@ -1,0 +1,49 @@
+.error-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.error-actions {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.error-actions .btn {
+  margin-right: 10px;
+}
+
+.text-white .ant-picker-input > input {
+  color: white;
+}
+
+.text-white .ant-picker-separator {
+  color: white;
+}
+
+.text-white .ant-picker-suffix {
+  color: white;
+}
+
+th.table-column {
+  background-color: #3a4354 !important;
+  color: white !important;
+  padding: 8px 8px !important;
+}
+
+th.ant-table-selection-column {
+  background-color: #3a4354 !important;
+  color: white !important;
+  padding: 8px 8px !important;
+}
+
+td.table-column {
+  border-color: #3a4354 !important;
+  padding: 8px 8px !important;
+}
+
+td.ant-table-selection-column {
+  border-color: #3a4354 !important;
+  padding: 8px 8px !important;
+}
+
+table {
+  border-left: 1px solid #3a4354 !important;
+}
